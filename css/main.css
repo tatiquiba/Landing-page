@@ -1,0 +1,59 @@
+/* Tu CSS va aqui */
+/*header*/
+li {
+	color: gray;
+	font-size: 16px;
+	display: inline;
+	text-decoration: none;
+	margin-left: 15px;
+	margin-top: 10px;
+	font-size: 16px;
+	font-weight: normal;
+}
+
+img {
+	width: 80%;
+	height: 50%
+}
+
+/*section*/
+
+.section {
+	color: white;
+	text-align: left;
+}
+
+h1 {
+	text-indent: word-spacing;
+}
+
+.iniciar {
+	height: 140px;
+	width: 180px;
+	background-color: #9a9a9a;
+	left: 50%;
+	border-radius: 10%;
+	padding: 10px;
+}
+
+.datos {
+	background-color: white;
+	width: 140px;
+	height: 15px;
+	padding-bottom: 5px;
+}
+
+.dato {
+	color: #9a9a9a;
+}
+
+.boton {
+	background-color: #09afff;
+	width: 140px;
+	height: 15px;
+	padding-bottom: 5px;
+}
+
+span {
+	color: #000276
+}
